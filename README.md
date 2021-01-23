@@ -1,4 +1,4 @@
-# drf_react_registration_snippet
+# DRF and React registration snippet
 
 Quick React + DRF boilerplate to handle registration using drf-auth registration endpoint https://github.com/jazzband/dj-rest-auth
 
